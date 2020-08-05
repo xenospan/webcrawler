@@ -1,6 +1,6 @@
 # webcrawler
 
-python crowler.py outFile.json ConfigFile1.txt ConfigFile2.txt ConfigFile3.txt  
+python crawler.py outFile.json ConfigFile1.txt ConfigFile2.txt ConfigFile3.txt  
 
 python jsonToCsv.py outFile.json
 
